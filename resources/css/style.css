@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Verdana;
+}
+
+header h1 {
+    font-size: 50px;
+    font-weight: 400;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+video {
+    width: auto;
+    padding-top: 25px;
+}
+
+footer {
+    color: gray;
+    text-align: right;
+}
+
+
+
+.travel-guide h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.travel-guide h3 {
+    font-size: 21px;
+    color: gray;
+}
+
+.coming-soon h2{
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.cell {
+    padding-top: 35px;
+}
